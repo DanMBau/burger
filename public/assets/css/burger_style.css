@@ -1,0 +1,46 @@
+.main-text {
+    background-color: #F3E022!important;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  
+  body {
+    background-color: #F3E022;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  ul li {
+    justify-content: space-between;
+    display: flex;
+  }
+  
+  .devour-btn, 
+  #submit-burger {
+    background-color: #ffc529;
+    border-color: black;
+  }
+  
+  .devour-btn:hover, 
+  #submit-burger:hover {
+    background-color: #ffc529;
+    border-color: #ffc529;
+  }
+  
+  form {
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
+  #input-label {
+    font-size: 24px;
+  }
+
+  .img-responsive {
+      max-width: 200px;
+      
+  }
