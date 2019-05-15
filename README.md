@@ -26,5 +26,4 @@ This app uses Bootstrap 4 for the front end.
 
 Screenshots:
 
-![
-]()
+![enter image description here](https://github.com/DanMBau/burger/blob/master/public/assets/img/screenshot-burger.png?raw=true)
